@@ -13,8 +13,8 @@ The script in [run_analysis.R](run_analysis.R) takes raw Samsung Galaxy S II acc
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-[Raw Files](raw_files) referenced in the script have been cloned to the github repo.
+[Raw Files](raw_files/UCI HAR Dataset) referenced in the script have been cloned to the github repo.
 
-The script generates a single output file, "train_test_average.txt", with the tidy data set specified in step #5.
+The script generates a single output file [test_train_averages.txt](test_train_averages.txt) with the tidy data set specified in step #5.
 
 See repo file "CodeBook.md" for a code book that describes the variables, the data, and any transformations or work performed to clean up the data.
