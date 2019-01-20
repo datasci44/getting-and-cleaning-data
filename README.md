@@ -1,7 +1,7 @@
 # getting-and-cleaning-data
 JHU Data Science Specialization. Course 3, Week 4. Programming Assignment.
 
-The script in run_analysis.R takes raw accelerometer data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and does the following:
+The script in [run_analysis.R](run_analysis.R) takes raw Samsung Galaxy S II accelerometer data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and does the following:
 
 1. Merges the training and the test sets to create one data set.
 
@@ -13,9 +13,8 @@ The script in run_analysis.R takes raw accelerometer data from http://archive.ic
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Raw files referenced in the script have been cloned to the github repo.
+[Raw Files](raw_files) referenced in the script have been cloned to the github repo.
 
 The script generates a single output file, "train_test_average.txt", with the tidy data set specified in step #5.
-
 
 See repo file "CodeBook.md" for a code book that describes the variables, the data, and any transformations or work performed to clean up the data.
