@@ -15,6 +15,6 @@ The script in [run_analysis.R](run_analysis.R) takes raw Samsung Galaxy S II acc
 
 [Raw Files](raw_files) referenced in the script have been cloned to the github repo.
 
-The script generates a single output file [train_test_averages.txt](train_test_averages.txt) with the tidy data set specified in step #5.
+The script generates a single output file, [train_test_averages.txt](train_test_averages.txt), with the tidy data set specified in step #5.
 
-See repo file "CodeBook.md" for a code book that describes the variables, the data, and any transformations or work performed to clean up the data.
+See repo file [CodeBook.md](CodeBook.md) for a code book that describes the data, the variables, and work performed to clean up the data.
